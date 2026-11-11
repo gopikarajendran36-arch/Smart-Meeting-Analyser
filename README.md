@@ -1,4 +1,4 @@
-\# Committee Meeting Advisor
+\# Smart Meeting Analyser
 
 
 
