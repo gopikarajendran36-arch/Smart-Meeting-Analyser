@@ -1,0 +1,55 @@
+
+# Python virtual environments
+diarization_env/
+venv/
+env/
+whisper_env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Meeting recordings and generated outputs
+Meeting_Recordings/
+speaker_audio/
+*.wav
+*.mp3
+*.mp4
+*.m4a
+
+# Secrets and environment variables
+.env
+.env.*
+!.env.example
+secrets/
+*.pem
+*.key
+
+# Model files
+*.pt
+*.pth
+*.bin
+*.onnx
+
+# IDE and system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+*.tmp
+
+# Local workaround file
+numba.py
+
+# Backup files
+*_backup.py
+
+# FFmpeg executable
+ffmpeg.exe
+
+# Old backup files
+*_backup.py

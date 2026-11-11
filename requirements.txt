@@ -1,0 +1,10 @@
+
+PySide6
+numpy
+sounddevice
+soundcard
+soundfile
+imageio-ffmpeg
+faster-whisper
+torch
+pyannote.audio
